@@ -1,0 +1,3017 @@
+(['C:\\Users\\US Claire '
+  'Force\\PycharmProjects\\Chatbot2_Local_LLM\\Chatbot2.py'],
+ ['C:\\Users\\US Claire Force\\PycharmProjects\\Chatbot2_Local_LLM'],
+ [],
+ [('C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks',
+   -1000),
+  ('C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\_pyinstaller_hooks_contrib',
+   -1000)],
+ {},
+ [],
+ [],
+ False,
+ {},
+ 0,
+ [],
+ [('InterVariable.ttf',
+   'C:\\Users\\US Claire '
+   'Force\\PycharmProjects\\Chatbot2_Local_LLM\\InterVariable.ttf',
+   'DATA'),
+  ('kittygiftest.gif',
+   'C:\\Users\\US Claire '
+   'Force\\PycharmProjects\\Chatbot2_Local_LLM\\kittygiftest.gif',
+   'DATA')],
+ '3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit '
+ '(AMD64)]',
+ [('pyi_rth_inspect',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyqt5',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pyqt5.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('Chatbot2',
+   'C:\\Users\\US Claire '
+   'Force\\PycharmProjects\\Chatbot2_Local_LLM\\Chatbot2.py',
+   'PYSOURCE')],
+ [('subprocess',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\selectors.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\signal.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\datetime.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\typing.py',
+   'PYMODULE'),
+  ('importlib._common',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\_common.py',
+   'PYMODULE'),
+  ('importlib._adapters',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\_adapters.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\random.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\numbers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pprint.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\inspect.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\opcode.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ast.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\string.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\bisect.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\getopt.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\socket.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\optparse.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\csv.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\struct.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_compression.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\bz2.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\gettext.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ssl.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\queue.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\secrets.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\runpy.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils.qt',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\qt.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('PyQt5',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\__init__.py',
+   'PYMODULE'),
+  ('ollama',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\ollama\\__init__.py',
+   'PYMODULE'),
+  ('ollama._types',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\ollama\\_types.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('pydantic.json_schema',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\json_schema.py',
+   'PYMODULE'),
+  ('pydantic.type_adapter',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\type_adapter.py',
+   'PYMODULE'),
+  ('pydantic.plugin._schema_validator',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\plugin\\_schema_validator.py',
+   'PYMODULE'),
+  ('pydantic.plugin._loader',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\plugin\\_loader.py',
+   'PYMODULE'),
+  ('pydantic.plugin',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\plugin\\__init__.py',
+   'PYMODULE'),
+  ('pydantic._internal._utils',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_internal\\_utils.py',
+   'PYMODULE'),
+  ('pydantic._internal._import_utils',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_internal\\_import_utils.py',
+   'PYMODULE'),
+  ('pydantic.fields',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\fields.py',
+   'PYMODULE'),
+  ('pydantic.aliases',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\aliases.py',
+   'PYMODULE'),
+  ('pydantic._internal._generics',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_internal\\_generics.py',
+   'PYMODULE'),
+  ('pydantic._internal._forward_ref',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_internal\\_forward_ref.py',
+   'PYMODULE'),
+  ('pydantic._internal._fields',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_internal\\_fields.py',
+   'PYMODULE'),
+  ('pydantic._internal._docs_extraction',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_internal\\_docs_extraction.py',
+   'PYMODULE'),
+  ('pydantic.types',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\types.py',
+   'PYMODULE'),
+  ('pydantic._migration',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_migration.py',
+   'PYMODULE'),
+  ('pydantic.version',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\version.py',
+   'PYMODULE'),
+  ('pydantic._internal._git',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_internal\\_git.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\platform.py',
+   'PYMODULE'),
+  ('pydantic._internal._validators',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_internal\\_validators.py',
+   'PYMODULE'),
+  ('zoneinfo',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('zoneinfo._zoneinfo',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\zoneinfo\\_zoneinfo.py',
+   'PYMODULE'),
+  ('zoneinfo._common',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\zoneinfo\\_common.py',
+   'PYMODULE'),
+  ('zoneinfo._tzpath',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\zoneinfo\\_tzpath.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\uuid.py',
+   'PYMODULE'),
+  ('typing_inspection.typing_objects',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\typing_inspection\\typing_objects.py',
+   'PYMODULE'),
+  ('typing_inspection',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\typing_inspection\\__init__.py',
+   'PYMODULE'),
+  ('annotated_types',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\annotated_types\\__init__.py',
+   'PYMODULE'),
+  ('pydantic._internal._typing_extra',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_internal\\_typing_extra.py',
+   'PYMODULE'),
+  ('pydantic._internal._repr',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_internal\\_repr.py',
+   'PYMODULE'),
+  ('pydantic._internal._namespace_utils',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_internal\\_namespace_utils.py',
+   'PYMODULE'),
+  ('pydantic._internal._generate_schema',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_internal\\_generate_schema.py',
+   'PYMODULE'),
+  ('pydantic.dataclasses',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\dataclasses.py',
+   'PYMODULE'),
+  ('pydantic.v1',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\v1\\__init__.py',
+   'PYMODULE'),
+  ('pydantic.v1.version',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\v1\\version.py',
+   'PYMODULE'),
+  ('pydantic.v1.types',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\v1\\types.py',
+   'PYMODULE'),
+  ('pydantic.v1.typing',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\v1\\typing.py',
+   'PYMODULE'),
+  ('pydantic.v1.validators',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\v1\\validators.py',
+   'PYMODULE'),
+  ('pydantic.v1.utils',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\v1\\utils.py',
+   'PYMODULE'),
+  ('pydantic.v1.datetime_parse',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\v1\\datetime_parse.py',
+   'PYMODULE'),
+  ('pydantic.v1.tools',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\v1\\tools.py',
+   'PYMODULE'),
+  ('pydantic.v1.parse',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\v1\\parse.py',
+   'PYMODULE'),
+  ('pydantic.v1.networks',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\v1\\networks.py',
+   'PYMODULE'),
+  ('pydantic.v1.main',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\v1\\main.py',
+   'PYMODULE'),
+  ('pydantic.v1.schema',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\v1\\schema.py',
+   'PYMODULE'),
+  ('pydantic.v1.json',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\v1\\json.py',
+   'PYMODULE'),
+  ('pydantic.v1.color',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\v1\\color.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('pydantic.v1.fields',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\v1\\fields.py',
+   'PYMODULE'),
+  ('pydantic.v1.error_wrappers',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\v1\\error_wrappers.py',
+   'PYMODULE'),
+  ('pydantic.v1.env_settings',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\v1\\env_settings.py',
+   'PYMODULE'),
+  ('pydantic.v1.decorator',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\v1\\decorator.py',
+   'PYMODULE'),
+  ('pydantic.v1.config',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\v1\\config.py',
+   'PYMODULE'),
+  ('pydantic.v1.class_validators',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\v1\\class_validators.py',
+   'PYMODULE'),
+  ('pydantic.v1.annotated_types',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\v1\\annotated_types.py',
+   'PYMODULE'),
+  ('pydantic.v1.dataclasses',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\v1\\dataclasses.py',
+   'PYMODULE'),
+  ('pydantic.v1.errors',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\v1\\errors.py',
+   'PYMODULE'),
+  ('pydantic._internal._serializers',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_internal\\_serializers.py',
+   'PYMODULE'),
+  ('pydantic._internal._schema_gather',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_internal\\_schema_gather.py',
+   'PYMODULE'),
+  ('pydantic._internal._known_annotated_metadata',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_internal\\_known_annotated_metadata.py',
+   'PYMODULE'),
+  ('pydantic._internal._discriminated_union',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_internal\\_discriminated_union.py',
+   'PYMODULE'),
+  ('pydantic.functional_validators',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\functional_validators.py',
+   'PYMODULE'),
+  ('pydantic.root_model',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\root_model.py',
+   'PYMODULE'),
+  ('pydantic._internal._model_construction',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_internal\\_model_construction.py',
+   'PYMODULE'),
+  ('pydantic._internal._signature',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_internal\\_signature.py',
+   'PYMODULE'),
+  ('pydantic.main',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\main.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.json',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\deprecated\\json.py',
+   'PYMODULE'),
+  ('pydantic.networks',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\networks.py',
+   'PYMODULE'),
+  ('pydantic.color',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\color.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.copy_internals',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\deprecated\\copy_internals.py',
+   'PYMODULE'),
+  ('pydantic.deprecated',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\deprecated\\__init__.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.parse',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\deprecated\\parse.py',
+   'PYMODULE'),
+  ('pydantic._internal._dataclasses',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_internal\\_dataclasses.py',
+   'PYMODULE'),
+  ('pydantic.errors',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\errors.py',
+   'PYMODULE'),
+  ('pydantic.config',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\config.py',
+   'PYMODULE'),
+  ('pydantic.annotated_handlers',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\annotated_handlers.py',
+   'PYMODULE'),
+  ('pydantic._internal._schema_generation_shared',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_internal\\_schema_generation_shared.py',
+   'PYMODULE'),
+  ('pydantic._internal._mock_val_ser',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_internal\\_mock_val_ser.py',
+   'PYMODULE'),
+  ('pydantic._internal._internal_dataclass',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_internal\\_internal_dataclass.py',
+   'PYMODULE'),
+  ('pydantic._internal._decorators',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_internal\\_decorators.py',
+   'PYMODULE'),
+  ('pydantic._internal._core_utils',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_internal\\_core_utils.py',
+   'PYMODULE'),
+  ('pydantic._internal._core_metadata',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_internal\\_core_metadata.py',
+   'PYMODULE'),
+  ('pydantic._internal._config',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_internal\\_config.py',
+   'PYMODULE'),
+  ('pydantic._internal',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_internal\\__init__.py',
+   'PYMODULE'),
+  ('pydantic._internal._decorators_v1',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_internal\\_decorators_v1.py',
+   'PYMODULE'),
+  ('pydantic._internal._validate_call',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\_internal\\_validate_call.py',
+   'PYMODULE'),
+  ('pydantic.warnings',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\warnings.py',
+   'PYMODULE'),
+  ('typing_inspection.introspection',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\typing_inspection\\introspection.py',
+   'PYMODULE'),
+  ('pydantic_core.core_schema',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic_core\\core_schema.py',
+   'PYMODULE'),
+  ('pydantic_core',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic_core\\__init__.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\__future__.py',
+   'PYMODULE'),
+  ('pydantic',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\__init__.py',
+   'PYMODULE'),
+  ('pydantic.validators',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\validators.py',
+   'PYMODULE'),
+  ('pydantic.v1.mypy',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\v1\\mypy.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\configparser.py',
+   'PYMODULE'),
+  ('pydantic.v1.generics',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\v1\\generics.py',
+   'PYMODULE'),
+  ('pydantic.v1._hypothesis_plugin',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\v1\\_hypothesis_plugin.py',
+   'PYMODULE'),
+  ('pydantic.utils',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\utils.py',
+   'PYMODULE'),
+  ('pydantic.typing',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\typing.py',
+   'PYMODULE'),
+  ('pydantic.tools',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\tools.py',
+   'PYMODULE'),
+  ('pydantic.schema',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\schema.py',
+   'PYMODULE'),
+  ('pydantic.parse',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\parse.py',
+   'PYMODULE'),
+  ('pydantic.mypy',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\mypy.py',
+   'PYMODULE'),
+  ('pydantic.json',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\json.py',
+   'PYMODULE'),
+  ('pydantic.generics',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\generics.py',
+   'PYMODULE'),
+  ('pydantic.experimental.pipeline',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\experimental\\pipeline.py',
+   'PYMODULE'),
+  ('pydantic.experimental.missing_sentinel',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\experimental\\missing_sentinel.py',
+   'PYMODULE'),
+  ('pydantic.experimental.arguments_schema',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\experimental\\arguments_schema.py',
+   'PYMODULE'),
+  ('pydantic.experimental',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\experimental\\__init__.py',
+   'PYMODULE'),
+  ('pydantic.error_wrappers',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\error_wrappers.py',
+   'PYMODULE'),
+  ('pydantic.env_settings',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\env_settings.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.decorator',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\deprecated\\decorator.py',
+   'PYMODULE'),
+  ('pydantic.decorator',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\decorator.py',
+   'PYMODULE'),
+  ('pydantic.datetime_parse',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\datetime_parse.py',
+   'PYMODULE'),
+  ('pydantic.class_validators',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\class_validators.py',
+   'PYMODULE'),
+  ('pydantic.alias_generators',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\alias_generators.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.tools',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\deprecated\\tools.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.config',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\deprecated\\config.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.class_validators',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\deprecated\\class_validators.py',
+   'PYMODULE'),
+  ('pydantic.validate_call_decorator',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\validate_call_decorator.py',
+   'PYMODULE'),
+  ('pydantic.functional_serializers',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic\\functional_serializers.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('ollama._client',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\ollama\\_client.py',
+   'PYMODULE'),
+  ('httpx',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpx\\__init__.py',
+   'PYMODULE'),
+  ('httpx._main',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpx\\_main.py',
+   'PYMODULE'),
+  ('httpcore',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\__init__.py',
+   'PYMODULE'),
+  ('httpcore._backends.trio',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_backends\\trio.py',
+   'PYMODULE'),
+  ('httpcore._backends',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_backends\\__init__.py',
+   'PYMODULE'),
+  ('httpcore._backends.anyio',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_backends\\anyio.py',
+   'PYMODULE'),
+  ('httpcore._utils',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_utils.py',
+   'PYMODULE'),
+  ('httpcore._sync',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_sync\\__init__.py',
+   'PYMODULE'),
+  ('httpcore._sync.socks_proxy',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_sync\\socks_proxy.py',
+   'PYMODULE'),
+  ('httpcore._trace',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_trace.py',
+   'PYMODULE'),
+  ('httpcore._synchronization',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_synchronization.py',
+   'PYMODULE'),
+  ('httpcore._sync.http2',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_sync\\http2.py',
+   'PYMODULE'),
+  ('httpcore._sync.interfaces',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_sync\\interfaces.py',
+   'PYMODULE'),
+  ('httpcore._sync.http_proxy',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_sync\\http_proxy.py',
+   'PYMODULE'),
+  ('httpcore._sync.http11',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_sync\\http11.py',
+   'PYMODULE'),
+  ('h11',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\h11\\__init__.py',
+   'PYMODULE'),
+  ('h11._version',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\h11\\_version.py',
+   'PYMODULE'),
+  ('h11._util',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\h11\\_util.py',
+   'PYMODULE'),
+  ('h11._state',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\h11\\_state.py',
+   'PYMODULE'),
+  ('h11._events',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\h11\\_events.py',
+   'PYMODULE'),
+  ('h11._headers',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\h11\\_headers.py',
+   'PYMODULE'),
+  ('h11._abnf',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\h11\\_abnf.py',
+   'PYMODULE'),
+  ('h11._connection',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\h11\\_connection.py',
+   'PYMODULE'),
+  ('h11._writers',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\h11\\_writers.py',
+   'PYMODULE'),
+  ('h11._receivebuffer',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\h11\\_receivebuffer.py',
+   'PYMODULE'),
+  ('h11._readers',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\h11\\_readers.py',
+   'PYMODULE'),
+  ('httpcore._sync.connection_pool',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_sync\\connection_pool.py',
+   'PYMODULE'),
+  ('httpcore._sync.connection',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_sync\\connection.py',
+   'PYMODULE'),
+  ('httpcore._ssl',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_ssl.py',
+   'PYMODULE'),
+  ('certifi',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('httpcore._models',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_models.py',
+   'PYMODULE'),
+  ('httpcore._exceptions',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_exceptions.py',
+   'PYMODULE'),
+  ('httpcore._backends.sync',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_backends\\sync.py',
+   'PYMODULE'),
+  ('httpcore._backends.mock',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_backends\\mock.py',
+   'PYMODULE'),
+  ('httpcore._backends.base',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_backends\\base.py',
+   'PYMODULE'),
+  ('httpcore._async',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_async\\__init__.py',
+   'PYMODULE'),
+  ('httpcore._async.socks_proxy',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_async\\socks_proxy.py',
+   'PYMODULE'),
+  ('httpcore._backends.auto',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_backends\\auto.py',
+   'PYMODULE'),
+  ('httpcore._async.http2',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_async\\http2.py',
+   'PYMODULE'),
+  ('httpcore._async.interfaces',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_async\\interfaces.py',
+   'PYMODULE'),
+  ('httpcore._async.http_proxy',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_async\\http_proxy.py',
+   'PYMODULE'),
+  ('httpcore._async.http11',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_async\\http11.py',
+   'PYMODULE'),
+  ('httpcore._async.connection_pool',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_async\\connection_pool.py',
+   'PYMODULE'),
+  ('httpcore._async.connection',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_async\\connection.py',
+   'PYMODULE'),
+  ('httpcore._api',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpcore\\_api.py',
+   'PYMODULE'),
+  ('httpx._urls',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpx\\_urls.py',
+   'PYMODULE'),
+  ('httpx._utils',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpx\\_utils.py',
+   'PYMODULE'),
+  ('httpx._urlparse',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpx\\_urlparse.py',
+   'PYMODULE'),
+  ('idna',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.core',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('httpx._types',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpx\\_types.py',
+   'PYMODULE'),
+  ('httpx._transports',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpx\\_transports\\__init__.py',
+   'PYMODULE'),
+  ('httpx._transports.wsgi',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpx\\_transports\\wsgi.py',
+   'PYMODULE'),
+  ('httpx._transports.mock',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpx\\_transports\\mock.py',
+   'PYMODULE'),
+  ('httpx._transports.default',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpx\\_transports\\default.py',
+   'PYMODULE'),
+  ('httpx._transports.base',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpx\\_transports\\base.py',
+   'PYMODULE'),
+  ('httpx._transports.asgi',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpx\\_transports\\asgi.py',
+   'PYMODULE'),
+  ('httpx._status_codes',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpx\\_status_codes.py',
+   'PYMODULE'),
+  ('httpx._models',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpx\\_models.py',
+   'PYMODULE'),
+  ('httpx._multipart',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpx\\_multipart.py',
+   'PYMODULE'),
+  ('httpx._decoders',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpx\\_decoders.py',
+   'PYMODULE'),
+  ('httpx._exceptions',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpx\\_exceptions.py',
+   'PYMODULE'),
+  ('httpx._content',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpx\\_content.py',
+   'PYMODULE'),
+  ('httpx._config',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpx\\_config.py',
+   'PYMODULE'),
+  ('httpx._client',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpx\\_client.py',
+   'PYMODULE'),
+  ('httpx._auth',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpx\\_auth.py',
+   'PYMODULE'),
+  ('httpx._api',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpx\\_api.py',
+   'PYMODULE'),
+  ('httpx.__version__',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\httpx\\__version__.py',
+   'PYMODULE'),
+  ('ollama._utils',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\ollama\\_utils.py',
+   'PYMODULE'),
+  ('anyio',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\__init__.py',
+   'PYMODULE'),
+  ('anyio._backends._trio',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\_backends\\_trio.py',
+   'PYMODULE'),
+  ('exceptiongroup',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\exceptiongroup\\__init__.py',
+   'PYMODULE'),
+  ('exceptiongroup._suppress',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\exceptiongroup\\_suppress.py',
+   'PYMODULE'),
+  ('exceptiongroup._formatting',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\exceptiongroup\\_formatting.py',
+   'PYMODULE'),
+  ('exceptiongroup._exceptions',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\exceptiongroup\\_exceptions.py',
+   'PYMODULE'),
+  ('exceptiongroup._version',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\exceptiongroup\\_version.py',
+   'PYMODULE'),
+  ('exceptiongroup._catch',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\exceptiongroup\\_catch.py',
+   'PYMODULE'),
+  ('anyio.streams.memory',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\streams\\memory.py',
+   'PYMODULE'),
+  ('anyio.streams',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\streams\\__init__.py',
+   'PYMODULE'),
+  ('anyio.lowlevel',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\lowlevel.py',
+   'PYMODULE'),
+  ('anyio.abc._eventloop',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\abc\\_eventloop.py',
+   'PYMODULE'),
+  ('anyio.abc._testing',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\abc\\_testing.py',
+   'PYMODULE'),
+  ('anyio.abc._tasks',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\abc\\_tasks.py',
+   'PYMODULE'),
+  ('anyio.abc._subprocesses',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\abc\\_subprocesses.py',
+   'PYMODULE'),
+  ('anyio.abc._streams',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\abc\\_streams.py',
+   'PYMODULE'),
+  ('anyio.abc._resources',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\abc\\_resources.py',
+   'PYMODULE'),
+  ('anyio.abc._sockets',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\abc\\_sockets.py',
+   'PYMODULE'),
+  ('anyio.abc',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\abc\\__init__.py',
+   'PYMODULE'),
+  ('anyio.from_thread',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\from_thread.py',
+   'PYMODULE'),
+  ('anyio._backends._asyncio',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\_backends\\_asyncio.py',
+   'PYMODULE'),
+  ('anyio._core._asyncio_selector_thread',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\_core\\_asyncio_selector_thread.py',
+   'PYMODULE'),
+  ('anyio._core',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\_core\\__init__.py',
+   'PYMODULE'),
+  ('anyio._backends',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\_backends\\__init__.py',
+   'PYMODULE'),
+  ('anyio._core._typedattr',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\_core\\_typedattr.py',
+   'PYMODULE'),
+  ('anyio._core._testing',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\_core\\_testing.py',
+   'PYMODULE'),
+  ('anyio._core._tempfile',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\_core\\_tempfile.py',
+   'PYMODULE'),
+  ('anyio._core._tasks',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\_core\\_tasks.py',
+   'PYMODULE'),
+  ('anyio._core._synchronization',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\_core\\_synchronization.py',
+   'PYMODULE'),
+  ('anyio._core._subprocesses',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\_core\\_subprocesses.py',
+   'PYMODULE'),
+  ('anyio._core._streams',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\_core\\_streams.py',
+   'PYMODULE'),
+  ('anyio._core._sockets',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\_core\\_sockets.py',
+   'PYMODULE'),
+  ('anyio.streams.tls',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\streams\\tls.py',
+   'PYMODULE'),
+  ('anyio.streams.stapled',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\streams\\stapled.py',
+   'PYMODULE'),
+  ('anyio._core._signals',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\_core\\_signals.py',
+   'PYMODULE'),
+  ('anyio._core._resources',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\_core\\_resources.py',
+   'PYMODULE'),
+  ('anyio._core._fileio',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\_core\\_fileio.py',
+   'PYMODULE'),
+  ('anyio._core._exceptions',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\_core\\_exceptions.py',
+   'PYMODULE'),
+  ('anyio._core._eventloop',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\_core\\_eventloop.py',
+   'PYMODULE'),
+  ('anyio.to_thread',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\to_thread.py',
+   'PYMODULE'),
+  ('anyio._core._contextmanagers',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\anyio\\_core\\_contextmanagers.py',
+   'PYMODULE')],
+ [('python310.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\python310.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\opengl32sw.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\opengl32sw.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\libGLESv2.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\libGLESv2.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\libEGL.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\libEGL.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\d3dcompiler_47.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\d3dcompiler_47.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qoffscreen.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qoffscreen.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qwebgl.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qwebgl.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qicns.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qicns.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qgif.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qgif.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qico.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qico.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\generic\\qtuiotouchplugin.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\generic\\qtuiotouchplugin.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qtga.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qtga.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qtiff.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qtiff.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\iconengines\\qsvgicon.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\iconengines\\qsvgicon.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qwbmp.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qwbmp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qwindows.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qwindows.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qsvg.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qsvg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qjpeg.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qjpeg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qminimal.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qminimal.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qwebp.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qwebp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\styles\\qwindowsvistastyle.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\styles\\qwindowsvistastyle.dll',
+   'BINARY'),
+  ('select.pyd',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('PyQt5\\QtCore.pyd',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\QtCore.pyd',
+   'EXTENSION'),
+  ('PyQt5\\sip.cp310-win_amd64.pyd',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\sip.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('PyQt5\\QtGui.pyd',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\QtGui.pyd',
+   'EXTENSION'),
+  ('PyQt5\\QtWidgets.pyd',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\QtWidgets.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('pydantic_core\\_pydantic_core.cp310-win_amd64.pyd',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic_core\\_pydantic_core.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('_zoneinfo.pyd',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_zoneinfo.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\VCRUNTIME140.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\MSVCP140.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\MSVCP140.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\VCRUNTIME140_1.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Gui.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Gui.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Core.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Core.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5WebSockets.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5WebSockets.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Network.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Network.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Quick.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Quick.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5DBus.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5DBus.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Svg.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Svg.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Widgets.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Widgets.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\python3.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\MSVCP140_1.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\bin\\MSVCP140_1.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Qml.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Qml.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5QmlModels.dll',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5QmlModels.dll',
+   'BINARY')],
+ [],
+ [],
+ [('InterVariable.ttf',
+   'C:\\Users\\US Claire '
+   'Force\\PycharmProjects\\Chatbot2_Local_LLM\\InterVariable.ttf',
+   'DATA'),
+  ('kittygiftest.gif',
+   'C:\\Users\\US Claire '
+   'Force\\PycharmProjects\\Chatbot2_Local_LLM\\kittygiftest.gif',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_hu.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_hu.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_lt.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_lt.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_de.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_de.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_cs.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_cs.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_sk.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_sk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_tr.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_tr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_gd.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_gd.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ja.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ja.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_da.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_da.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_pt.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_pt.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ru.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ru.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_uk.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_uk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ko.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ko.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_it.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_it.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_pl.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_pl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_hu.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_hu.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_zh_CN.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_zh_CN.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_zh_TW.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_zh_TW.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ca.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ca.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_bg.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_bg.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_fr.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_fr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_gd.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_gd.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ja.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ja.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_hu.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_hu.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_da.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_da.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_pl.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_pl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ar.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ar.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ca.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ca.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_lv.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_lv.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_sl.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_sl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_de.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_de.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_sv.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_sv.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_de.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_de.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_zh_CN.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_zh_CN.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_fr.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_fr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ko.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ko.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_lv.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_lv.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_it.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_it.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_es.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_es.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_uk.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_uk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_bg.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_bg.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_sk.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_sk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ja.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ja.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_en.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_en.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_en.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_en.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ru.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ru.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_fi.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_fi.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_gl.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_gl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ru.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ru.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_cs.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_cs.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_es.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_es.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ko.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ko.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_it.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_it.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_uk.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_uk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_zh_TW.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_zh_TW.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ar.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ar.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_fa.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_fa.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_tr.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_tr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_da.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_da.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_fr.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_fr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_es.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_bg.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_bg.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_sk.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_sk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_sl.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_sl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_gl.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_gl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_he.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_he.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ar.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ar.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_zh_TW.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_zh_TW.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_en.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_en.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_cs.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_cs.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ca.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ca.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_tr.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_tr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_he.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_he.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_fi.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_fi.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_pl.qm',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_pl.qm',
+   'DATA'),
+  ('certifi\\py.typed',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\certifi\\py.typed',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('ollama-0.6.1.dist-info\\REQUESTED',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\ollama-0.6.1.dist-info\\REQUESTED',
+   'DATA'),
+  ('pydantic-2.12.5.dist-info\\INSTALLER',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic-2.12.5.dist-info\\INSTALLER',
+   'DATA'),
+  ('ollama-0.6.1.dist-info\\INSTALLER',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\ollama-0.6.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('ollama-0.6.1.dist-info\\licenses\\LICENSE',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\ollama-0.6.1.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('pydantic-2.12.5.dist-info\\RECORD',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic-2.12.5.dist-info\\RECORD',
+   'DATA'),
+  ('pydantic-2.12.5.dist-info\\WHEEL',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic-2.12.5.dist-info\\WHEEL',
+   'DATA'),
+  ('pydantic-2.12.5.dist-info\\licenses\\LICENSE',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic-2.12.5.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('pydantic-2.12.5.dist-info\\METADATA',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pydantic-2.12.5.dist-info\\METADATA',
+   'DATA'),
+  ('ollama-0.6.1.dist-info\\WHEEL',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\ollama-0.6.1.dist-info\\WHEEL',
+   'DATA'),
+  ('ollama-0.6.1.dist-info\\RECORD',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\ollama-0.6.1.dist-info\\RECORD',
+   'DATA'),
+  ('ollama-0.6.1.dist-info\\METADATA',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\ollama-0.6.1.dist-info\\METADATA',
+   'DATA'),
+  ('base_library.zip',
+   'C:\\Users\\US Claire '
+   'Force\\PycharmProjects\\Chatbot2_Local_LLM\\build\\Chatbot2\\base_library.zip',
+   'DATA')],
+ [('sre_constants',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\sre_constants.py',
+   'PYMODULE'),
+  ('_weakrefset',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_weakrefset.py',
+   'PYMODULE'),
+  ('reprlib',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\reprlib.py',
+   'PYMODULE'),
+  ('_collections_abc',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_collections_abc.py',
+   'PYMODULE'),
+  ('sre_parse',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\sre_parse.py',
+   'PYMODULE'),
+  ('linecache',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\linecache.py',
+   'PYMODULE'),
+  ('codecs',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\codecs.py',
+   'PYMODULE'),
+  ('keyword',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\keyword.py',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('warnings',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\warnings.py',
+   'PYMODULE'),
+  ('sre_compile',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\sre_compile.py',
+   'PYMODULE'),
+  ('traceback',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\traceback.py',
+   'PYMODULE'),
+  ('collections.abc',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\collections\\abc.py',
+   'PYMODULE'),
+  ('collections',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\collections\\__init__.py',
+   'PYMODULE'),
+  ('functools',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\functools.py',
+   'PYMODULE'),
+  ('encodings.zlib_codec',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\zlib_codec.py',
+   'PYMODULE'),
+  ('encodings.uu_codec',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\uu_codec.py',
+   'PYMODULE'),
+  ('encodings.utf_8_sig',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\utf_8_sig.py',
+   'PYMODULE'),
+  ('encodings.utf_8',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\utf_8.py',
+   'PYMODULE'),
+  ('encodings.utf_7',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\utf_7.py',
+   'PYMODULE'),
+  ('encodings.utf_32_le',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\utf_32_le.py',
+   'PYMODULE'),
+  ('encodings.utf_32_be',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\utf_32_be.py',
+   'PYMODULE'),
+  ('encodings.utf_32',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\utf_32.py',
+   'PYMODULE'),
+  ('encodings.utf_16_le',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\utf_16_le.py',
+   'PYMODULE'),
+  ('encodings.utf_16_be',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\utf_16_be.py',
+   'PYMODULE'),
+  ('encodings.utf_16',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\utf_16.py',
+   'PYMODULE'),
+  ('encodings.unicode_escape',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\unicode_escape.py',
+   'PYMODULE'),
+  ('encodings.undefined',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\undefined.py',
+   'PYMODULE'),
+  ('encodings.tis_620',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\tis_620.py',
+   'PYMODULE'),
+  ('encodings.shift_jisx0213',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\shift_jisx0213.py',
+   'PYMODULE'),
+  ('encodings.shift_jis_2004',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\shift_jis_2004.py',
+   'PYMODULE'),
+  ('encodings.shift_jis',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\shift_jis.py',
+   'PYMODULE'),
+  ('encodings.rot_13',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\rot_13.py',
+   'PYMODULE'),
+  ('encodings.raw_unicode_escape',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\raw_unicode_escape.py',
+   'PYMODULE'),
+  ('encodings.quopri_codec',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\quopri_codec.py',
+   'PYMODULE'),
+  ('encodings.punycode',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\punycode.py',
+   'PYMODULE'),
+  ('encodings.ptcp154',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\ptcp154.py',
+   'PYMODULE'),
+  ('encodings.palmos',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\palmos.py',
+   'PYMODULE'),
+  ('encodings.oem',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\oem.py',
+   'PYMODULE'),
+  ('encodings.mbcs',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\mbcs.py',
+   'PYMODULE'),
+  ('encodings.mac_turkish',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\mac_turkish.py',
+   'PYMODULE'),
+  ('encodings.mac_romanian',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\mac_romanian.py',
+   'PYMODULE'),
+  ('encodings.mac_roman',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\mac_roman.py',
+   'PYMODULE'),
+  ('encodings.mac_latin2',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\mac_latin2.py',
+   'PYMODULE'),
+  ('encodings.mac_iceland',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\mac_iceland.py',
+   'PYMODULE'),
+  ('encodings.mac_greek',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\mac_greek.py',
+   'PYMODULE'),
+  ('encodings.mac_farsi',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\mac_farsi.py',
+   'PYMODULE'),
+  ('encodings.mac_cyrillic',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\mac_cyrillic.py',
+   'PYMODULE'),
+  ('encodings.mac_croatian',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\mac_croatian.py',
+   'PYMODULE'),
+  ('encodings.mac_arabic',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\mac_arabic.py',
+   'PYMODULE'),
+  ('encodings.latin_1',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\latin_1.py',
+   'PYMODULE'),
+  ('encodings.kz1048',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\kz1048.py',
+   'PYMODULE'),
+  ('encodings.koi8_u',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\koi8_u.py',
+   'PYMODULE'),
+  ('encodings.koi8_t',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\koi8_t.py',
+   'PYMODULE'),
+  ('encodings.koi8_r',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\koi8_r.py',
+   'PYMODULE'),
+  ('encodings.johab',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\johab.py',
+   'PYMODULE'),
+  ('encodings.iso8859_9',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\iso8859_9.py',
+   'PYMODULE'),
+  ('encodings.iso8859_8',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\iso8859_8.py',
+   'PYMODULE'),
+  ('encodings.iso8859_7',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\iso8859_7.py',
+   'PYMODULE'),
+  ('encodings.iso8859_6',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\iso8859_6.py',
+   'PYMODULE'),
+  ('encodings.iso8859_5',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\iso8859_5.py',
+   'PYMODULE'),
+  ('encodings.iso8859_4',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\iso8859_4.py',
+   'PYMODULE'),
+  ('encodings.iso8859_3',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\iso8859_3.py',
+   'PYMODULE'),
+  ('encodings.iso8859_2',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\iso8859_2.py',
+   'PYMODULE'),
+  ('encodings.iso8859_16',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\iso8859_16.py',
+   'PYMODULE'),
+  ('encodings.iso8859_15',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\iso8859_15.py',
+   'PYMODULE'),
+  ('encodings.iso8859_14',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\iso8859_14.py',
+   'PYMODULE'),
+  ('encodings.iso8859_13',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\iso8859_13.py',
+   'PYMODULE'),
+  ('encodings.iso8859_11',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\iso8859_11.py',
+   'PYMODULE'),
+  ('encodings.iso8859_10',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\iso8859_10.py',
+   'PYMODULE'),
+  ('encodings.iso8859_1',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\iso8859_1.py',
+   'PYMODULE'),
+  ('encodings.iso2022_kr',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\iso2022_kr.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_ext',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\iso2022_jp_ext.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_3',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\iso2022_jp_3.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_2004',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\iso2022_jp_2004.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_2',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\iso2022_jp_2.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_1',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\iso2022_jp_1.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\iso2022_jp.py',
+   'PYMODULE'),
+  ('encodings.idna',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\idna.py',
+   'PYMODULE'),
+  ('encodings.hz',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\hz.py',
+   'PYMODULE'),
+  ('encodings.hp_roman8',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\hp_roman8.py',
+   'PYMODULE'),
+  ('encodings.hex_codec',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\hex_codec.py',
+   'PYMODULE'),
+  ('encodings.gbk',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\gbk.py',
+   'PYMODULE'),
+  ('encodings.gb2312',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\gb2312.py',
+   'PYMODULE'),
+  ('encodings.gb18030',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\gb18030.py',
+   'PYMODULE'),
+  ('encodings.euc_kr',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\euc_kr.py',
+   'PYMODULE'),
+  ('encodings.euc_jp',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\euc_jp.py',
+   'PYMODULE'),
+  ('encodings.euc_jisx0213',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\euc_jisx0213.py',
+   'PYMODULE'),
+  ('encodings.euc_jis_2004',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\euc_jis_2004.py',
+   'PYMODULE'),
+  ('encodings.cp950',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp950.py',
+   'PYMODULE'),
+  ('encodings.cp949',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp949.py',
+   'PYMODULE'),
+  ('encodings.cp932',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp932.py',
+   'PYMODULE'),
+  ('encodings.cp875',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp875.py',
+   'PYMODULE'),
+  ('encodings.cp874',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp874.py',
+   'PYMODULE'),
+  ('encodings.cp869',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp869.py',
+   'PYMODULE'),
+  ('encodings.cp866',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp866.py',
+   'PYMODULE'),
+  ('encodings.cp865',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp865.py',
+   'PYMODULE'),
+  ('encodings.cp864',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp864.py',
+   'PYMODULE'),
+  ('encodings.cp863',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp863.py',
+   'PYMODULE'),
+  ('encodings.cp862',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp862.py',
+   'PYMODULE'),
+  ('encodings.cp861',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp861.py',
+   'PYMODULE'),
+  ('encodings.cp860',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp860.py',
+   'PYMODULE'),
+  ('encodings.cp858',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp858.py',
+   'PYMODULE'),
+  ('encodings.cp857',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp857.py',
+   'PYMODULE'),
+  ('encodings.cp856',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp856.py',
+   'PYMODULE'),
+  ('encodings.cp855',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp855.py',
+   'PYMODULE'),
+  ('encodings.cp852',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp852.py',
+   'PYMODULE'),
+  ('encodings.cp850',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp850.py',
+   'PYMODULE'),
+  ('encodings.cp775',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp775.py',
+   'PYMODULE'),
+  ('encodings.cp737',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp737.py',
+   'PYMODULE'),
+  ('encodings.cp720',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp720.py',
+   'PYMODULE'),
+  ('encodings.cp500',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp500.py',
+   'PYMODULE'),
+  ('encodings.cp437',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp437.py',
+   'PYMODULE'),
+  ('encodings.cp424',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp424.py',
+   'PYMODULE'),
+  ('encodings.cp273',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp273.py',
+   'PYMODULE'),
+  ('encodings.cp1258',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp1258.py',
+   'PYMODULE'),
+  ('encodings.cp1257',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp1257.py',
+   'PYMODULE'),
+  ('encodings.cp1256',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp1256.py',
+   'PYMODULE'),
+  ('encodings.cp1255',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp1255.py',
+   'PYMODULE'),
+  ('encodings.cp1254',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp1254.py',
+   'PYMODULE'),
+  ('encodings.cp1253',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp1253.py',
+   'PYMODULE'),
+  ('encodings.cp1252',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp1252.py',
+   'PYMODULE'),
+  ('encodings.cp1251',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp1251.py',
+   'PYMODULE'),
+  ('encodings.cp1250',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp1250.py',
+   'PYMODULE'),
+  ('encodings.cp1140',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp1140.py',
+   'PYMODULE'),
+  ('encodings.cp1125',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp1125.py',
+   'PYMODULE'),
+  ('encodings.cp1026',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp1026.py',
+   'PYMODULE'),
+  ('encodings.cp1006',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp1006.py',
+   'PYMODULE'),
+  ('encodings.cp037',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\cp037.py',
+   'PYMODULE'),
+  ('encodings.charmap',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\charmap.py',
+   'PYMODULE'),
+  ('encodings.bz2_codec',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\bz2_codec.py',
+   'PYMODULE'),
+  ('encodings.big5hkscs',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\big5hkscs.py',
+   'PYMODULE'),
+  ('encodings.big5',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\big5.py',
+   'PYMODULE'),
+  ('encodings.base64_codec',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\base64_codec.py',
+   'PYMODULE'),
+  ('encodings.ascii',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\ascii.py',
+   'PYMODULE'),
+  ('encodings.aliases',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\aliases.py',
+   'PYMODULE'),
+  ('encodings',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\__init__.py',
+   'PYMODULE'),
+  ('types',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\types.py',
+   'PYMODULE'),
+  ('heapq',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\heapq.py',
+   'PYMODULE'),
+  ('locale',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\locale.py',
+   'PYMODULE'),
+  ('posixpath',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('enum',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\enum.py',
+   'PYMODULE'),
+  ('copyreg',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\copyreg.py',
+   'PYMODULE'),
+  ('abc',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\abc.py',
+   'PYMODULE'),
+  ('ntpath',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('weakref',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\weakref.py',
+   'PYMODULE'),
+  ('operator',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\operator.py',
+   'PYMODULE'),
+  ('io',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\io.py',
+   'PYMODULE'),
+  ('stat',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\stat.py',
+   'PYMODULE'),
+  ('os',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\os.py',
+   'PYMODULE'),
+  ('re',
+   'C:\\Users\\US Claire '
+   'Force\\AppData\\Local\\Programs\\Python\\Python310\\lib\\re.py',
+   'PYMODULE')])
